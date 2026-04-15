@@ -1,0 +1,143 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+
+table.tabla_con_estilo_red{
+	
+	
+	border-radius: 5px;
+	background-color: rgb(0, 0, 0) ;
+	
+}
+table.tabla_con_estilo_yellow{
+
+
+	
+	
+	border-radius: 5px;
+	background-color: rgb(0, 0, 0) ;
+}
+
+section p{
+	font-family: initial;
+
+	font-size: larger;
+	color: blanchedalmond;
+	text-transform: uppercase;
+	
+}
+
+header h1{
+	color: blanchedalmond;
+}
+
+section h2{
+	color: rgb(22, 7, 226);
+}
+nav a{
+	color: wheat;
+}
+tr th{
+	color: blanchedalmond;
+}
+
+tr td{
+	color: blanchedalmond;
+}
+
+footer p1{
+	color: blanchedalmond;
+	font: optional;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a{
+	padding: 0%;
+	margin:100px;
+	border: 100px;
+}
+
+header h1:hover{
+transform: translateY(10px);
+background-color:rgb(45, 10, 172) ;(20px)
+}
+
+div{
+	color: white;	
+}
+
+
+
+
+
+@media screen and (max-width: 600px) {
+  
+ .topnav>div{
+  display: none
+ }
+ 
+
+
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  position: relative;
+}
+
+/* Hide the links inside the navigation menu (except for logo/home) */
+.topnav #myLinks {
+  display: none;
+}
+
+/* Style navigation menu links */to
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+/* Style the hamburger menu */
+.topnav a.icon {
+  background: black;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+/* Add a grey background color on mouse-over */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the active link (or home/logo) */
+.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+h2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(0, 38, 255);
+
+  
+}
+
+section h2{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.J{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #04AA6D;
+}
+
+.Y{
+  color: #f3f3f3;
+  background-color: #e00d0d;
+}
+
+
+	
